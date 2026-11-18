@@ -1,0 +1,7 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "agent-builder",
+  "version": "0.1.0",
+  "description": "Build, repair, and evolve agentic software and automations using the simplest architecture that actually works.",
+  "keywords": ["agents", "automation", "workflows", "debugging", "optimization", "ai"]
+}
